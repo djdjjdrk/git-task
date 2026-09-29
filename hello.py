@@ -1,1 +1,1 @@
-print("hello,Git")
+print("hello,fuck")
